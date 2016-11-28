@@ -1,0 +1,38 @@
+.cabecera{
+    width:80%;
+    background-color: red;
+    height:200px;
+    margin-bottom:10px;
+    border:2px solid black;
+    margin:10px auto 10px auto;
+}
+
+.principal{
+    border:2px solid black;
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+    height:500px;
+    margin:10px auto 10px auto;
+}
+
+.main{
+    width:60%;
+    height:500px;
+    background-color:blue;
+    
+}
+
+.main2{
+    width:35%;
+    height:500px;
+    background-color:green;
+}
+
+footer{
+    width:80%;
+    background-color:yellow;
+    height:200px;
+    border:2px solid black;
+    margin:10px auto 10px auto;
+}
